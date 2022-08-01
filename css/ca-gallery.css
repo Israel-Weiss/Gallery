@@ -767,3 +767,8 @@ fieldset[disabled] .btn-xl:hover {
     padding-right: 0;
     padding-left: 0;
 }
+
+.link {
+    background-color: rgb(67, 67, 238);
+    padding: 10px;
+}
